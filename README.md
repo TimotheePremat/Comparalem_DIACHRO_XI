@@ -8,5 +8,5 @@ This repo contains:
 - the data I extracted from the NCA4 corpus for this talk;
 - the slides of this talk.
 
-Please note that the program is still in suboptimal form. A lot of optimization has to be done, and will be done. Yet, it is functional.
+Please note that the program is still in suboptimal form. A lot of optimization has to be done, and will be done. Yet, it is functional. The program has only been tested on Mac OS.
 
