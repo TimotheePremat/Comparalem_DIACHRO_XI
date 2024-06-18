@@ -12,7 +12,7 @@ Please note that the program is still in suboptimal form. A lot of optimization 
 
 Shapefiles have been made buy Guylaine Brun Trigaud for the ADE22 project. They can be reused, provided her authorship is duely mentioned.
 
-> This repo is not gonna evolve has the program evolves, it will become an archive as to how the program was in May 2024 when DIACHRO XI congress happen.
+> This repo is not gonna evolve as the program evolves; it will become an archive as to how the program was in May 2024 when DIACHRO XI congress happen.
 
 # References
 - ADE22: Tobias Scheer, Guylaine Brun-Trigaud, Laurent Vanni, Pierre-Aurélien Georges, Alec Stein, Abdurrahmaan Iqbal, and Timothée Premat (2022). _Atlas Dees Électronique 22_. Côte d’Azur University & CNRS. Url: [http://atlasdees.unice.fr/wordpress/](http://atlasdees.unice.fr/wordpress/).
