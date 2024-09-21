@@ -8,11 +8,11 @@ This repo contains:
 - the data I extracted from the NCA4 corpus for this talk;
 - the slides of this talk.
 
-Please note that the program is still in suboptimal form. A lot of optimization has to be done, and will be done. Yet, it is functional. The program has only been tested on Mac OS.
-
-Shapefiles have been made buy Guylaine Brun Trigaud for the ADE22 project. They can be reused, provided her authorship is duely mentioned.
+> I am currently rewriting the program. Major changes are expected in the coming months. As of last R updates, some packages are deprecated and parts of the program might not work at all. 
 
 > This repo is not gonna evolve as the program evolves; it will become an archive as to how the program was in May 2024 when DIACHRO XI congress happen.
+
+Shapefiles have been made buy Guylaine Brun Trigaud for the ADE22 project. They can be reused, provided her authorship is duely mentioned.
 
 # References
 - ADE22: Tobias Scheer, Guylaine Brun-Trigaud, Laurent Vanni, Pierre-Aurélien Georges, Alec Stein, Abdurrahmaan Iqbal, and Timothée Premat (2022). _Atlas Dees Électronique 22_. Côte d’Azur University & CNRS. Url: [http://atlasdees.unice.fr/wordpress/](http://atlasdees.unice.fr/wordpress/).
